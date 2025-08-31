@@ -1,4 +1,5 @@
 # pip install langchain langchain-community ollama
+# pip install langchain-ollama
 # pip install langchain-core
 
 
