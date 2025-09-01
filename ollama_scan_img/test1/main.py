@@ -53,9 +53,9 @@ message = HumanMessage(
 )
 
 llm = ChatOllama(
-    model="qwen2.5vl:3b",
+    # model="qwen2.5vl:3b",
     # model="qwen2.5vl:7b",
-    # model="qwen2.5vl:32b",
+    model="qwen2.5vl:32b",
     base_url="http://localhost:11434"
 )
 
